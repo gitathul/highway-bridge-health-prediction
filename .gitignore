@@ -6,9 +6,6 @@ __pycache__/
 # Large raw datasets (> 50 MB)
 *.csv
 
-# v1 heavy model (346.8 MB - exceeds GitHub 100MB limit)
-bridge_model.pkl
-
 # System files
 .DS_Store
 Thumbs.db
